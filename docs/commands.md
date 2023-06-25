@@ -18,9 +18,6 @@ These are boring commands, right? Well, there are some more interesting ones.
 ### `useless number`
 Prints a random number between 0 and 100.
 
-### `useless number <num>`
-Prints a random number between 0 and the number you specified.
-
 ### `useless num <num1> <num2>`
 Prints a random number between the two numbers you specified.
 
