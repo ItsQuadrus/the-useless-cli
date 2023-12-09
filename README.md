@@ -1,4 +1,7 @@
 # The useless CLI
+
+# WARNING: DON'T USE THE PASSWORD GENERATOR. IT IS VERY UNSAFE AND WAS MADE FOR FUN!
+
 ## What is this?
 This is a useless CLI that does some things that are not really helpful. It is written in Python and is cross-platform. I mainly made this to learn how to use Typer and PyInstaller. I also wanted to make a CLI that does something useful, but I couldn't think of anything. So I made this.
 ## Installation
